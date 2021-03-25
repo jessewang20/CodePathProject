@@ -4,7 +4,7 @@
 
 Submitted by: Jesse Wang
 
-Time spent: 2 hours spent in base game. 1.5 hours spent in other upgrades.
+Time spent: 2 hours spent in base game. 3 hours spent in other upgrades.
 
 Link to project: https://glitch.com/~quaint-brassy-chamomile
 
