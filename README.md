@@ -41,7 +41,7 @@ I could perhaps make it multiplayer, but that would require a lot more work if I
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![https://recordit.co/3xhFCcLLJ1]
+https://imgur.com/a/L9kXdoU.gif
 
 
 ## Reflection Questions
